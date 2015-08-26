@@ -32,3 +32,5 @@ export these data in this order:
 9. Measurement Position
 10. Attenuation Factor
 
+The file "Size dependence summary 8-23-15.txt" is output from pk.sizr() and input
+for "size dependence plots.R". 
